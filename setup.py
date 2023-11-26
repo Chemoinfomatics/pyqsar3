@@ -210,7 +210,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 
 setup(
-    name="pyqsar",
+    name="pyqsar3",
     version="1.4.1",
     description="SSU Lab Package for PYQSAR",
     author="SSU@Chemoinformatic Lab",
