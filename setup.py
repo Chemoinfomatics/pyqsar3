@@ -205,6 +205,9 @@
 
 """
 from setuptools import find_packages, setup
+with open("README.md", "r", encoding="utf-8") as readme_file:
+    long_description = readme_file.read()
+
 
 setup(
     name="pyqsar",
@@ -212,5 +215,7 @@ setup(
     description="SSU Lab Package for PYQSAR",
     author="SSU@Chemoinformatic Lab",
     author_email="chokh@ssu.ac.kr",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     packages=find_packages(),
 )
