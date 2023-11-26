@@ -1,3 +1,7 @@
+Welcome to PyQsar3 
+This is upgraded version of pyqsar which works only with python 2.7.
+pyqsar3 works with python 3.9 or higher.
+More functions added 
 # pyqsar3
 
 pyqsar3 folder inside ===> 
@@ -5,6 +9,10 @@ Install : pip install .
 Upgrade : pip install . --upgrade
 Reinstall : pip uninstall pyqsar   and  pip install .
 
-update
 
+# Citation 
+https://onlinelibrary.wiley.com/doi/abs/10.1002/bkcs.11638
+Sinyoug Kim and Kwang-Hwi Cho, PyQSAR: A Fast QSAR Modeling Platform Using Machine Learning and Jupyter Notebook. Bulletin of the Korean Chemical Society, 2019, 40.1: 39-44
+
+pyqsar3 HELP Desck : chokh@ssu.ac.kr
 
