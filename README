@@ -1,0 +1,8 @@
+pyqsar3 folder inside ===> 
+Install : pip install .
+Upgrade : pip install . --upgrade
+Reinstall : pip uninstall pyqsar   and  pip install .
+
+
+
+
