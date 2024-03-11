@@ -14,12 +14,26 @@ Welcome to PyQsar3, an upgraded version of [pyqsar](https://github.com/crong-k/p
 
 ### From GitHub
 
+
+
+
 Firstly, Clone the repository and install:
 
 ```bash
 git clone https://github.com/Chemoinfomatics/pyqsar3.git
 cd pyqsar3
+conda env create -f environment.yml 
+#or use mama, which is way faster than conda
+mamba env create -f environment.yml 
+
+conda activate ssu-lab-pyqsar3
+#or
+mamba activate ssu-lab-pyqsar3 
+
 pip install .
+# or 
+pip install pyqsar3
+
 ```
 
 ### Usage
