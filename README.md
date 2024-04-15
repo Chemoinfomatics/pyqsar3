@@ -6,12 +6,10 @@ Welcome to PyQsar3, an upgraded version of [pyqsar](https://github.com/crong-k/p
 
 ## Installation
 
-### Commands
-
-- Install: `pip install .`
-- Upgrade: `pip install . --upgrade`
-- Reinstall: `pip uninstall pyqsar` and `pip install .`
-
+### From PyPi
+```
+pip install pyqsar3
+```
 ### From GitHub
 
 
@@ -35,6 +33,12 @@ pip install .
 pip install pyqsar3
 
 ```
+### Commands
+
+- Install: `pip install .`
+- Upgrade: `pip install . --upgrade`
+- Reinstall: `pip uninstall pyqsar` and `pip install .`
+
 
 ### Usage
 For detailed usage instructions, refer to the Pyqsar3R.ipynb file included in this package.
