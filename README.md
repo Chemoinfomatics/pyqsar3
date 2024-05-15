@@ -46,3 +46,6 @@ Sinyoug Kim and Kwang-Hwi Cho, [PyQSAR: A Fast QSAR Modeling Platform Using Mach
 
 ### Questions
 For any further questions or inquiries, feel free to contact us at chokh@ssu.ac.kr.
+
+
+ [![HitCount](https://hits.dwyl.com/Chemoinfomatics/pyqsar3.svg?style=flat&show=unique)](http://hits.dwyl.com/Chemoinfomatics/pyqsar3)
